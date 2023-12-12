@@ -1,1 +1,1 @@
-# tgsakhir_tokosederhana
+# tugas_akhir_Algritma_dan_pemograman
